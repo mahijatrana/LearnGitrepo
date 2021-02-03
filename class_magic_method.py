@@ -219,3 +219,6 @@ vinny = Lawyer(name = "Vincent", briefcase = cheap_briefcase)
 vinny.write_notes("My client is innocent!", "AS-2ZK1")
 vinny.write_notes("There is no evidence of a cirme!", "AS-2ZK1")
 vinny.view_notes()
+
+print("this file is now complete")
+print("in dev branch")
