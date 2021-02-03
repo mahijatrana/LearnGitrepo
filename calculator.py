@@ -17,3 +17,5 @@ if __name__ == "__main__":
     print(subtract(3, 5))
 
 _year = 2020
+
+print("Done with claculator module")
